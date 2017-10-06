@@ -23,5 +23,3 @@ $(document).ready(function(){
         return array[Math.floor(Math.random() * array.length) + 0];
     }
 });
-    
-    
